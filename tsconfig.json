@@ -21,6 +21,14 @@
       "@common/*": ["common/*"],
       "@db/*": ["db/*"],
       "@config/*": ["config/*"],
+      "@product/*": ["api/product/*"],
+      "@media-upload/*": ["api/media-upload/*"],
+      "@email/*": ["api/email/*"],
+      "@auth/*": ["api/auth/*"],
+      "@user/*": ["api/user/*"],
+      "@order/*": ["api/order/*"],
+      "@payment/*": ["api/payment/*"],
+      
     }
   }
 }
